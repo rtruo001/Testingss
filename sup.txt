@@ -2,12 +2,16 @@
 gfdhdfgdfgdfgdfgdg
 ssdf
 
+<<<<<<< HEAD
 <<<<<<gfhfghfgh< HEAD
 <<<<<<< hhhghgh
 =======
 <<<<<<< asdasdasdasd
 >>>>>>> origin/master
 fgdgfg
+=======
+
+>>>>>>> origin/master
 =======
 Sip
 >>>>>>> origin/master
